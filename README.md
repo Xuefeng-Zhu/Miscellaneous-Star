@@ -4,6 +4,7 @@
 my stared python libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Miscellaneous Star](#miscellaneous-star)
+    - [Dev](#dev)
     - [Service/Platform](#serviceplatform)
     - [Admin](#admin)
     - [System Tool](#system-tool)
@@ -12,6 +13,10 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
     - [Books](#books)
 
 ---
+## Dev
+* [rethinkdb](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language
+* [oclint](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
+
 ## Service/Platform
 * [killbill](https://github.com/killbill/killbill) - Open-Source Billing & Payment Platform
 * [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
