@@ -52,3 +52,4 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 ## Books
 * [RE-for-beginners](https://github.com/dennis714/RE-for-beginners) - "Reverse Engineering for Beginners" free book
 * [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
+* [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
