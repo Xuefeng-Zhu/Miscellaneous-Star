@@ -41,10 +41,12 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [c4](https://github.com/rswier/c4) - C in four functions
 
 ## Algorithms
-* [WikiSort](https://github.com/BonzaiThePenguin/WikiSort) - Fast and stable sort algorithm that uses O(1) memory. Public domain 
+* [WikiSort](https://github.com/BonzaiThePenguin/WikiSort) - Fast and stable sort algorithm that uses O(1) memory. Public domain
 * [DataStructuresAlgorithms](https://github.com/arunma/DataStructuresAlgorithms) - Revisiting Datastructures and Algorithms
 * [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Algorithms and Data structures
 * [algorithms](https://github.com/sagivo/algorithms) - algorithms playground for common questions
+* [codelibrary](https://github.com/indy256/codelibrary) - Collection of algorithms and data structures
+* [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation) - Algorithms and Data Structures implemented in Java
 * [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 书名暂定《编程之法：面试和算法心得》，初稿于14年6月转移到Word上优化，纸质版15年上市
 * [retter](https://github.com/maciejczyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography
 * [leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions (up-to-date)
