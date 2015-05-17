@@ -11,6 +11,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
     - [Sample Program](#sample-program)
     - [Algorithms](#algorithms)
     - [Books](#books)
+    - [Reference](#reference)
 
 ---
 ## Dev
@@ -55,4 +56,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [RE-for-beginners](https://github.com/dennis714/RE-for-beginners) - "Reverse Engineering for Beginners" free book
 * [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 * [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+
+## Reference
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
+* [android-open-project](https://github.com/Trinea/android-open-project) - Collect and classify android open source projects
