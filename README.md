@@ -60,6 +60,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 书名暂定《编程之法：面试和算法心得》，初稿于14年6月转移到Word上优化，纸质版15年上市
 * [free-programming-books](https://github.com/vhf/free-programming-books)
 * [free-data-science-books](https://github.com/chaconnewu/free-data-science-books) -Free resources for learning data science
+* [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss
 
 ## Course
 * [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization
