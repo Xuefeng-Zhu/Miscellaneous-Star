@@ -11,6 +11,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
     - [Sample Program](#sample-program)
     - [Algorithms](#algorithms)
     - [Books](#books)
+    - [Course](#course)
     - [Reference](#reference)
 
 ---
@@ -56,6 +57,9 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [RE-for-beginners](https://github.com/dennis714/RE-for-beginners) - "Reverse Engineering for Beginners" free book
 * [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 * [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+
+## Course
+* [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization
 
 ## Reference
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
