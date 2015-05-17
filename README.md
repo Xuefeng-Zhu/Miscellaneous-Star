@@ -61,6 +61,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [free-programming-books](https://github.com/vhf/free-programming-books)
 * [free-data-science-books](https://github.com/chaconnewu/free-data-science-books) -Free resources for learning data science
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss
+* [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 
 ## Course
 * [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization
