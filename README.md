@@ -58,6 +58,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 * [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 * [free-programming-books](https://github.com/vhf/free-programming-books)
+* [free-data-science-books](https://github.com/chaconnewu/free-data-science-books) -Free resources for learning data science
 
 ## Course
 * [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization
@@ -65,3 +66,4 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 ## Reference
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
 * [android-open-project](https://github.com/Trinea/android-open-project) - Collect and classify android open source projects
+* [http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
