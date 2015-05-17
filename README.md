@@ -57,6 +57,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [RE-for-beginners](https://github.com/dennis714/RE-for-beginners) - "Reverse Engineering for Beginners" free book
 * [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 * [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+* [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 书名暂定《编程之法：面试和算法心得》，初稿于14年6月转移到Word上优化，纸质版15年上市
 * [free-programming-books](https://github.com/vhf/free-programming-books)
 * [free-data-science-books](https://github.com/chaconnewu/free-data-science-books) -Free resources for learning data science
 
