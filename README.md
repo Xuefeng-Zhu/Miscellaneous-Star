@@ -70,3 +70,4 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
 * [android-open-project](https://github.com/Trinea/android-open-project) - Collect and classify android open source projects
 * [http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
+* [interview](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
