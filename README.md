@@ -67,6 +67,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 
 ## Course
 * [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
 
 ## Reference
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
