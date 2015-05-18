@@ -18,6 +18,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 ## Dev
 * [rethinkdb](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language
 * [oclint](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
+* [electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies 
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Service/Platform
