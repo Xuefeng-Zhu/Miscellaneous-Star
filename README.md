@@ -29,6 +29,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
 * [huginn](https://github.com/cantino/huginn) - Build agents that monitor and act on your behalf. Your agents are standing by
 * [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server 
+* [kitematic](https://github.com/kitematic/kitematic) - Mac app for managing Docker containers 
 
 ## System Tool
 * [androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac
