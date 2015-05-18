@@ -31,6 +31,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [huginn](https://github.com/cantino/huginn) - Build agents that monitor and act on your behalf. Your agents are standing by
 * [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server 
 * [kitematic](https://github.com/kitematic/kitematic) - Mac app for managing Docker containers 
+* [linux-dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine. 
 
 ## System Tool
 * [androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac
@@ -85,6 +86,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization. Everyone can contribute here!
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries 
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [db-readings](https://github.com/rxin/db-readings) - Readings in Databases
