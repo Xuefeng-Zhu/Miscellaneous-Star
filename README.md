@@ -90,4 +90,6 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 * [til](https://github.com/thoughtbot/til) - Today I Learned
 * [htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
+* [datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
+
 
