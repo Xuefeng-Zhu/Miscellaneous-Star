@@ -78,6 +78,7 @@ my stared python libraries. Inspired by [awesome-python](https://github.com/vint
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+* [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 * [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language. 
