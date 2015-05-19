@@ -1,5 +1,6 @@
 # Miscellaneous-Star
-my stared python libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+
+My stared miscellaneous libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Miscellaneous Star](#miscellaneous-star)
     - [Dev](#dev)
