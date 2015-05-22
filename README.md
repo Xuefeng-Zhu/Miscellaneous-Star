@@ -75,12 +75,15 @@ My stared miscellaneous libraries. Inspired by [awesome-python](https://github.c
 * [free-data-science-books](https://github.com/chaconnewu/free-data-science-books) -Free resources for learning data science
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss
 * [db-readings](https://github.com/rxin/db-readings) - Readings in Databases
+* [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with ipython and scikit-learn. Disclaimer: This is a by-beginner, for-beginner's guide. I am a beginner too, so I'm sure there's room for improvement. Please contribute, open issues, and submit pull requests. Thanks!
+
 
 
 ## Course
 * [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
 * [til](https://github.com/thoughtbot/til) - Today I Learned
+* [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea! 
 
 ## Document
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
@@ -98,11 +101,13 @@ My stared miscellaneous libraries. Inspired by [awesome-python](https://github.c
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+* [awesome](https://github.com/sindresorhus/awesome) -A curated list of awesome lists
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization. Everyone can contribute here!
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) -A curated list of CTF frameworks, libraries, resources and softwares
+* [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Collection of material design libs and res.
 
 
