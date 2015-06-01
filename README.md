@@ -41,6 +41,7 @@ My stared miscellaneous libraries. Inspired by [awesome-python](https://github.c
 * [gitx](https://github.com/rowanj/gitx) - Fork of Pieter's nice git GUI for OS X. Includes branch/tag sidebar and various fixes. Current development focus is on removing legacy git command line usage in favour of libgit2 and objective-git.
 * [laptop](https://github.com/thoughtbot/laptop) - A shell script which turns your OS X laptop into an awesome web development machine
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A community-driven framework for managing your zsh configuration. Includes 180+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 120 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. 
+* [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 
 ## Sample Program
 * [7guis](https://github.com/eugenkiss/7guis) - 7GUIs is a GUI programming usability benchmark
@@ -76,7 +77,6 @@ My stared miscellaneous libraries. Inspired by [awesome-python](https://github.c
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss
 * [db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 * [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with ipython and scikit-learn. Disclaimer: This is a by-beginner, for-beginner's guide. I am a beginner too, so I'm sure there's room for improvement. Please contribute, open issues, and submit pull requests. Thanks!
-
 
 
 ## Course
