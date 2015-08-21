@@ -109,5 +109,6 @@ My stared miscellaneous libraries. Inspired by [awesome-python](https://github.c
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) -A curated list of CTF frameworks, libraries, resources and softwares
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Collection of material design libs and res.
+* [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub
 
 
