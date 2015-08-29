@@ -42,6 +42,7 @@ My stared miscellaneous libraries. Inspired by [awesome-python](https://github.c
 * [laptop](https://github.com/thoughtbot/laptop) - A shell script which turns your OS X laptop into an awesome web development machine
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A community-driven framework for managing your zsh configuration. Includes 180+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 120 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. 
 * [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
+* [slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt)
 
 ## Sample Program
 * [7guis](https://github.com/eugenkiss/7guis) - 7GUIs is a GUI programming usability benchmark
@@ -84,15 +85,18 @@ My stared miscellaneous libraries. Inspired by [awesome-python](https://github.c
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
 * [til](https://github.com/thoughtbot/til) - Today I Learned
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea! 
+* [docker-jumpstart](https://github.com/odewahn/docker-jumpstart - A quick introduction to Docker
 
 ## Document
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
+* [git-style-guide](https://github.com/agis-/git-style-guide) - A Git Style Guide
 * [sublime-undocs](https://github.com/guillermooo/sublime-undocs) - Sublime Text Unofficial Documentation
 * [http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
 * [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 * [interview](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
 * [htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets.
 * [datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
 
 ## Reference
@@ -109,6 +113,8 @@ My stared miscellaneous libraries. Inspired by [awesome-python](https://github.c
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) -A curated list of CTF frameworks, libraries, resources and softwares
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Collection of material design libs and res.
+* [awesome-developer](https://github.com/phodal/awesome-developer) - Web Developer路线图
 * [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub
+* [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
 
