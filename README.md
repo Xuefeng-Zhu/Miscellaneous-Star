@@ -68,7 +68,6 @@ My stared miscellaneous libraries. Inspired by [awesome-python](https://github.c
 * [RE-for-beginners](https://github.com/dennis714/RE-for-beginners) - "Reverse Engineering for Beginners" free book
 * [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 * [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
-* [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 书名暂定《编程之法：面试和算法心得》，初稿于14年6月转移到Word上优化，纸质版15年上市
 * [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
 * [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 * [SystemProgramming](https://github.com/angrave/SystemProgramming) - UIUC Crowd-Sourced System Programming Book
